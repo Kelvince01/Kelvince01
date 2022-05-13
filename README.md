@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Kelvince01/Kelvince01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am Kelvince✨✨ 
 
-Here are some ideas to get you started:
+### Glad to see you here <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am an Full Stack Developer open to collaborate in new &/ open-source projects. 
+- 🌱 I’m currently learning Testing in Android and Ktor
+
+- 📫 You can find me:
+[Gmail](mailto:kelvince05@gmail.com) or on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Kelvince)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kelvince_)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Kelvince)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kelvince01&theme=dark)](https://git.io/streak-stats)
+
+
+[![Kelvince's github stats](https://github-readme-stats.vercel.app/api?username=Kelvince01&theme=blue-dark)](https://github.com/Kelvince01/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvince01&theme=blue-dark)](https://github.com/Kelvince01/github-readme-stats)
