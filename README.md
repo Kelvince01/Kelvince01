@@ -11,11 +11,18 @@
 [Gmail](mailto:kelvince05@gmail.com) or on
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kelvince_)
 
+<!-- ### Stats -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Kelvince) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kelvince01&theme=dark)](https://git.io/streak-stats)
+<!-- 
+![Kelvince's Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Kelvince01&theme=github-compact)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kelvince01&theme=dark)](https://git.io/streak-stats)
+
+![Kelvince's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvince01&layout=compact&theme=radical)
 
 
 [![Kelvince's github stats](https://github-readme-stats.vercel.app/api?username=Kelvince01&theme=blue-dark)](https://github.com/Kelvince01/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvince01&theme=blue-dark)](https://github.com/Kelvince01/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvince01&theme=blue-dark)](https://github.com/Kelvince01/github-readme-stats) 
+-->
