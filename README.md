@@ -7,6 +7,17 @@
 - 🔭 I am an Full Stack Developer open to collaborate in new &/ open-source projects. 
 - 🌱 I’m currently learning Mobile Development with React Native, yes..., you are welcome!
 
+#### Languages & Framework Stack
+BACKEND:
+  - Python (Django & Flask)
+  - Typescript (NestJS, FeathersJS & ExpressJS)
+  - Ruby on Rails
+FRONTEND
+  - Typescript (Angular & VueJS)
+OTHERS
+  - Google Cloud Platform, Firebase
+  - TailwindCSS and Bootstrap
+
 - 📫 You can find me:
 [Gmail](mailto:kelvince05@gmail.com) or on
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kelvince_)
