@@ -1,4 +1,4 @@
-### Hi there 👋, I am Kelvince✨✨
+### Hi there 👋, I am Kelvince ✨✨
 
 ### Glad to see you here <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
@@ -6,13 +6,13 @@
 - 🌱 I’m currently learning Mobile Development with React Native, yes..., you are welcome!
 
 #### Languages & Framework Stack
-BACKEND:
+##### BACKEND:
   - Python (Django & Flask)
   - Typescript (NestJS, FeathersJS & ExpressJS)
   - Ruby on Rails
-FRONTEND:
+##### FRONTEND:
   - Typescript (Angular & VueJS)
-OTHERS:
+##### OTHERS:
   - Google Cloud Platform, Firebase
   - TailwindCSS and Bootstrap
 
