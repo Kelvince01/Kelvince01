@@ -16,7 +16,7 @@
   - Google Cloud Platform, Firebase
   - TailwindCSS and Bootstrap
 
-- 📫 You can find me:
+📫 You can find me:
 [Gmail](mailto:kelvince05@gmail.com) or on
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kelvince_)
 
